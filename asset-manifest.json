@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/zistor-webapp/static/css/main.62bc130b.css",
+    "main.js": "/zistor-webapp/static/js/main.f3250cb6.js",
+    "static/js/781.7692f188.chunk.js": "/zistor-webapp/static/js/781.7692f188.chunk.js",
+    "static/js/155.d33f9606.chunk.js": "/zistor-webapp/static/js/155.d33f9606.chunk.js",
+    "static/js/850.e05bbe47.chunk.js": "/zistor-webapp/static/js/850.e05bbe47.chunk.js",
+    "index.html": "/zistor-webapp/index.html",
+    "main.62bc130b.css.map": "/zistor-webapp/static/css/main.62bc130b.css.map",
+    "main.f3250cb6.js.map": "/zistor-webapp/static/js/main.f3250cb6.js.map",
+    "781.7692f188.chunk.js.map": "/zistor-webapp/static/js/781.7692f188.chunk.js.map",
+    "155.d33f9606.chunk.js.map": "/zistor-webapp/static/js/155.d33f9606.chunk.js.map",
+    "850.e05bbe47.chunk.js.map": "/zistor-webapp/static/js/850.e05bbe47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62bc130b.css",
+    "static/js/main.f3250cb6.js"
+  ]
+}
